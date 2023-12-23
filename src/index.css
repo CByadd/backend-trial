@@ -11,3 +11,89 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* App.css */
+.app-store {
+  text-align: center;
+}
+
+.app-list {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.app-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.app-details {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+button {
+  margin-top: 10px;
+  cursor: pointer;
+}
+/* App.css */
+.app-store {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.navbar button {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.app-list {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.app-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.app-details {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+button {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+/* App.css */
+/* ... existing styles ... */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.navbar button {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.navbar input {
+  padding: 5px;
+  margin: 0 10px;
+}
